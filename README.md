@@ -144,6 +144,43 @@ This ratio was used to identify states experiencing relatively higher industrial
 | Figure 2: Non-Domestic Water Consumption Trend in Manufacturing States (Line Chart) | Shows the annual non-domestic water consumption trends for Johor, Selangor, and Pulau Pinang from 2003–2022. The visualization supports growth analysis and comparison among Malaysia's major industrial states. | Research Question 2 |
 | Figure 3: Industrial Water Intensity Ratio by State (Bar Chart) | Compares the industrial water intensity ratio of all Malaysian states in 2022, calculated using the relationship between non-domestic and domestic water consumption. This visualization identifies states with relatively high industrial water demand. | Research Question 3 |
 
+## Key Findings
+
+### Finding 1: Overall Distribution
+
+- Domestic Consumption: **62.8%**
+- Non-Domestic Consumption: **37.2%**
+
+Domestic users consume the majority of Malaysia's water resources, but non-domestic consumption remains substantial and represents more than one-third of total usage.
+
+---
+
+### Finding 2: Manufacturing States Growth (2003–2022)
+
+| State | Growth (%) |
+|---------|---------:|
+| Johor | 117.89% |
+| Selangor | 100.59% |
+| Pulau Pinang | 42.13% |
+
+Key observation:
+
+- Johor recorded the highest increase in non-domestic water consumption.
+- Selangor also experienced substantial industrial expansion.
+- Pulau Pinang showed moderate growth compared with the other manufacturing states.
+
+---
+
+### Finding 3: Industrial Water Intensity
+
+The analysis identified:
+
+**W.P. Labuan** as the state with the highest industrial water intensity ratio in 2022.
+
+This suggests a relatively stronger dependence on non-domestic water consumption compared to domestic demand.
+
+---
+
 ## Recommendations
 
 ### Ministry of Investment, Trade and Industry (MITI)
@@ -190,17 +227,6 @@ The program should generate:
 
 ---
 
-## References
-
-1. Government of Malaysia. Water Consumption by State and Sector. https://data.gov.my/data-catalogue/water_consumption
-
-2. Ministry of Investment, Trade and Industry (MITI). https://www.miti.gov.my
-
-3. National Water Services Commission (SPAN). https://www.span.gov.my
-
-4. Perbadanan Bekalan Air Pulau Pinang (PBAPP). https://pba.com.my
-
----
 
 ## Author
 
