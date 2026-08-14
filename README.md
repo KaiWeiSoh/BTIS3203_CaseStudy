@@ -136,42 +136,13 @@ This ratio was used to identify states experiencing relatively higher industrial
 
 ---
 
-## Key Findings
+## Visualization Summary
 
-### Finding 1: Overall Distribution
-
-- Domestic Consumption: **62.8%**
-- Non-Domestic Consumption: **37.2%**
-
-Domestic users consume the majority of Malaysia's water resources, but non-domestic consumption remains substantial and represents more than one-third of total usage.
-
----
-
-### Finding 2: Manufacturing States Growth (2003–2022)
-
-| State | Growth (%) |
-|---------|---------:|
-| Johor | 117.89% |
-| Selangor | 100.59% |
-| Pulau Pinang | 42.13% |
-
-Key observation:
-
-- Johor recorded the highest increase in non-domestic water consumption.
-- Selangor also experienced substantial industrial expansion.
-- Pulau Pinang showed moderate growth compared with the other manufacturing states.
-
----
-
-### Finding 3: Industrial Water Intensity
-
-The analysis identified:
-
-**W.P. Labuan** as the state with the highest industrial water intensity ratio in 2022.
-
-This suggests a relatively stronger dependence on non-domestic water consumption compared to domestic demand.
-
----
+| Figure | Description | Supported Research Question |
+|---------|-------------|----------------------------|
+| Figure 1: Overall Water Consumption Distribution (Pie Chart) | Visualizes the cumulative percentage distribution of water consumption between domestic and non-domestic sectors across all Malaysian states from 2003–2022. The chart highlights the relative share of each sector in national water usage. | Research Question 1 |
+| Figure 2: Non-Domestic Water Consumption Trend in Manufacturing States (Line Chart) | Shows the annual non-domestic water consumption trends for Johor, Selangor, and Pulau Pinang from 2003–2022. The visualization supports growth analysis and comparison among Malaysia's major industrial states. | Research Question 2 |
+| Figure 3: Industrial Water Intensity Ratio by State (Bar Chart) | Compares the industrial water intensity ratio of all Malaysian states in 2022, calculated using the relationship between non-domestic and domestic water consumption. This visualization identifies states with relatively high industrial water demand. | Research Question 3 |
 
 ## Recommendations
 
